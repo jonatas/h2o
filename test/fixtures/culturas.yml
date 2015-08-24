@@ -1,9 +1,11 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-one:
-  nome: MyString
+manga:
+  id: 1
+  nome: Manga
   anual: false
 
-two:
-  nome: MyString
-  anual: false
+banana:
+  id: 2
+  nome: Banana
+  anual: true

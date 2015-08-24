@@ -1,7 +1,7 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-one:
-  nome: MyString
-
-two:
-  nome: MyString
+rancho_feliz:
+  id: 1
+  nome: Rancho Feliz
+  custo_kwh: 0.55
+  latitude: 15.23

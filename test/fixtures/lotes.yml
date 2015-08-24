@@ -1,0 +1,14 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+lote_manga_rancho_feliz:
+  fazenda_id: 1
+  cultura_id: 1
+  sistema_irrigacao_id: 1
+  iniciou_em: 2015-08-23
+  vazao_litro_hora: 1.5
+  raio_copa: 1.5
+  quantidade_plantas: 1
+  espacamento_plantas: 1.5
+  espacamento_linhas: 1.5
+  consumo_bomba_kwh: 1.5
+

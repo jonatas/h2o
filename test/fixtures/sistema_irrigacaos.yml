@@ -1,0 +1,16 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+gotejamento:
+  id: 1
+  nome: Gotejamento
+  coeficiente_eficiencia: 0.95
+
+aspersao:
+  id: 2
+  nome: Aspersão
+  coeficiente_eficiencia: 0.75
+
+microaspersao:
+  id: 3
+  nome: Microaspersão
+  coeficiente_eficiencia: 0.90
